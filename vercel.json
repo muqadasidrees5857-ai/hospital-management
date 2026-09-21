@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://hospital-management-5ocs.vercel.app/api/:path*"
+      "destination": "https://hospital-management-gamma-rust.vercel.app/api/:path*"
     },
     {
       "source": "/(.*)",
